@@ -61,8 +61,6 @@ Este projeto utiliza práticas de segurança avançadas, incluindo proteção CS
 - PostgreSQL
 - Blade (Laravel Template Engine)
 - HTML/CSS
-- Licença
-- MIT
 
 
 ## Licença
